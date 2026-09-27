@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+data/dataset/
+data/annotation_test/
+
+runs/
+outputs/
+
+*.pt
+*.pth
+
+.ipynb_checkpoints/
+.vscode/
